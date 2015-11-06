@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WFTDA Champs]]></title>
+        <description><![CDATA[WFTDA Champs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 13:30:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Roller Derby Video | WFTDA.tv]]></title>
+            <description><![CDATA[<article><h1>Roller Derby Video | WFTDA.tv</h1><p>An online broadcast channel to watch live and recorded streaming video roller derby bouts from the Women's Flat Track Roller Derby Association (WFTDA).</p><img src="http://wftda.wpengine.netdna-cdn.com/wp-content/themes/WFTDAtv/lib/img/logo.png"></article>]]></description>
+            <link>http://wftda.tv/</link>
+            <guid isPermaLink="false">4f0e9c13-7934-4890-99db-2f5fd3530808</guid>
+            <pubDate>Fri, 06 Nov 2015 13:29:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
