@@ -40,9 +40,9 @@ description: Are you ready for this weekend?
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://twitter.com/WFTDA/status/662404076424921088'
-datePublished: '2015-11-06T13:46:15.425Z'
+datePublished: '2015-11-06T13:54:35.179Z'
 title: ''
-dateModified: '2015-11-06T13:38:29.423Z'
+dateModified: '2015-11-06T13:46:15.425Z'
 sourcePath: _posts/2015-11-06-are-you-ready-for-this-weekend.md
 published: true
 inFeed: true
