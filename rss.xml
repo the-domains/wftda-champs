@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[WFTDA Champs]]></title>
         <description><![CDATA[WFTDA Champs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wftda-champs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 13:30:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 13:30:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wftda-champs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[November 6-8, 2015 - Women's Flat Track Derby Association]]></title>
+            <description><![CDATA[<article><h1>November 6-8, 2015 - Women's Flat Track Derby Association</h1><p>Everything you need to know about the 2015 International WFTDA Championships in Saint Paul, Minnesota, November 6-8, 2015.</p><img src="http://wftda.com/sponsors/derby-supply.jpg"></article>]]></description>
+            <link>http://wftda.com/tournaments/2015/championships</link>
+            <guid isPermaLink="false">203734d4-7950-4afd-b14b-abccacc278d5</guid>
+            <pubDate>Fri, 06 Nov 2015 13:29:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Roller Derby Video | WFTDA.tv]]></title>
             <description><![CDATA[<article><h1>Roller Derby Video | WFTDA.tv</h1><p>An online broadcast channel to watch live and recorded streaming video roller derby bouts from the Women's Flat Track Roller Derby Association (WFTDA).</p><img src="http://wftda.wpengine.netdna-cdn.com/wp-content/themes/WFTDAtv/lib/img/logo.png"></article>]]></description>
