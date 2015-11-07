@@ -1,6 +1,6 @@
 name: WFTDA Champs
 favicon: null
-layout_spectrum: 0.88572
+layout_spectrum: 0.80179
 typography_spectrum: 0.0436758475843817
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.375
+  brandStrength: 0.25
   lightness: 0.7443970828317106
   saturation: 0.3078274177387357
   rhythmicContrast: 0.764986959984526
