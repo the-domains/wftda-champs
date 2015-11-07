@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=sgdyg9MHsTI'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - thewftda
   - wftda
@@ -17,8 +17,8 @@ keywords:
   - championships
   - '2015'
 description: 'The 2015 International WFTDA Playoffs and Championships kick off in August! Visit http://wftda.com/tournaments for information about all of the tournaments.'
-datePublished: '2015-11-06T14:35:03.945Z'
-dateModified: '2015-11-06T14:34:54.849Z'
+datePublished: '2015-11-07T13:24:07.213Z'
+dateModified: '2015-11-07T13:24:01.531Z'
 author:
   - name: TheWFTDA
     url: 'https://www.youtube.com/user/TheWFTDA'
