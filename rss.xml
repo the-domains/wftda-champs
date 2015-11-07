@@ -4,7 +4,7 @@
         <description><![CDATA[WFTDA Champs]]></description>
         <link>https://thegrid.ai/wftda-champs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 13:17:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 13:17:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wftda-champs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[November 6-8, 2015 - Women's Flat Track Derby Association]]></title>
@@ -12,6 +12,13 @@
             <link>http://wftda.com/tournaments/2015/championships</link>
             <guid isPermaLink="false">203734d4-7950-4afd-b14b-abccacc278d5</guid>
             <pubDate>Fri, 06 Nov 2015 13:48:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CTLUaENXIAAur56.jpg">]]></description>
+            <link>https://thegrid.ai/wftda-champs/3b892d5a-71c0-43d1-9074-9a351bfd96c0/index.html</link>
+            <guid isPermaLink="false">3b892d5a-71c0-43d1-9074-9a351bfd96c0</guid>
+            <pubDate>Sat, 07 Nov 2015 13:15:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.prnewswire.com/news-releases/womens-roller-derby-teams-compete-for-10th-international-championship-nov-6-8-in-saint-paul-300171158.html</link>
             <guid isPermaLink="false">857c4f69-4876-43ab-983b-0639f00f8cab</guid>
             <pubDate>Fri, 06 Nov 2015 13:35:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Roller Derby Video | WFTDA.tv]]></title>
-            <description><![CDATA[<article><h1>Roller Derby Video | WFTDA.tv</h1><p>An online broadcast channel to watch live and recorded streaming video roller derby bouts from the Women's Flat Track Roller Derby Association (WFTDA).</p><img src="http://wftda.wpengine.netdna-cdn.com/wp-content/themes/WFTDAtv/lib/img/logo.png"></article>]]></description>
-            <link>http://wftda.tv/</link>
-            <guid isPermaLink="false">4f0e9c13-7934-4890-99db-2f5fd3530808</guid>
-            <pubDate>Fri, 06 Nov 2015 13:29:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
