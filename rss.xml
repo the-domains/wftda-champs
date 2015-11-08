@@ -4,7 +4,7 @@
         <description><![CDATA[WFTDA Champs]]></description>
         <link>https://thegrid.ai/wftda-champs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 13:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 05:21:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wftda-champs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2015 International WFTDA Playoffs and Championships]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=sgdyg9MHsTI</link>
             <guid isPermaLink="false">84b7cb1e-a2a9-41cb-aca9-014bfe916a2a</guid>
             <pubDate>Sat, 07 Nov 2015 13:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CTQ5wDUWcAAqEVb.jpg:large">]]></description>
+            <link>https://thegrid.ai/wftda-champs/377efbe6-ae0a-48b7-84d4-02bfd3629edb/index.html</link>
+            <guid isPermaLink="false">377efbe6-ae0a-48b7-84d4-02bfd3629edb</guid>
+            <pubDate>Sun, 08 Nov 2015 05:20:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[November 6-8, 2015 - Women's Flat Track Derby Association]]></title>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/9v49dVBdvg/?tagged=wftdachamps</link>
             <guid isPermaLink="false">f8c799f0-c1f7-4f81-8bc1-253434af9708</guid>
             <pubDate>Sat, 07 Nov 2015 13:21:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CTLUaENXIAAur56.jpg">]]></description>
-            <link>https://thegrid.ai/wftda-champs/3b892d5a-71c0-43d1-9074-9a351bfd96c0/index.html</link>
-            <guid isPermaLink="false">3b892d5a-71c0-43d1-9074-9a351bfd96c0</guid>
-            <pubDate>Sat, 07 Nov 2015 13:15:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
