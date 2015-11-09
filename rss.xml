@@ -4,7 +4,7 @@
         <description><![CDATA[WFTDA Champs]]></description>
         <link>https://thegrid.ai/wftda-champs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 15:06:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 15:06:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/wftda-champs/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[2015 International WFTDA Playoffs and Championships]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.youtube.com/watch?v=sgdyg9MHsTI</link>
             <guid isPermaLink="false">84b7cb1e-a2a9-41cb-aca9-014bfe916a2a</guid>
             <pubDate>Sat, 07 Nov 2015 13:24:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[@rosecityrollers just made history and took home the gold at #WFTDAchamps in Saint Paul!]]></title>
+            <description><![CDATA[<article><h1>@rosecityrollers just made history and took home the gold at #WFTDAchamps in Saint Paul!</h1><img src="https://scontent.cdninstagram.com/hphotos-xfp1/t51.2885-15/s640x640/sh0.08/e35/11950674_856073827839557_1493232849_n.jpg"></article>]]></description>
+            <link>https://instagram.com/p/92KF4TKwVE/?taken-by=wftda</link>
+            <guid isPermaLink="false">ed2988a9-dff1-4d35-8d2c-8b3f4cf13ae2</guid>
+            <pubDate>Mon, 09 Nov 2015 15:04:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[@gothamgirlsnyc gave it all right til the end and bring home the silver from #WFTDAchamps in Saint Paul!]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/wftda-champs/a221a645-f62b-4bf9-80be-bed48763001e/index.html</link>
             <guid isPermaLink="false">a221a645-f62b-4bf9-80be-bed48763001e</guid>
             <pubDate>Sun, 08 Nov 2015 14:34:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CTQ5wDUWcAAqEVb.jpg:large">]]></description>
-            <link>https://thegrid.ai/wftda-champs/377efbe6-ae0a-48b7-84d4-02bfd3629edb/index.html</link>
-            <guid isPermaLink="false">377efbe6-ae0a-48b7-84d4-02bfd3629edb</guid>
-            <pubDate>Sun, 08 Nov 2015 05:20:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
